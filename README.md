@@ -1,19 +1,30 @@
-# pomodoro_app
+## Pomodoro: A pomodoro app built in Flutter with mobX.
 
-A new Pomodoro app to study.
+This project is inspired by the Cod3r project, and was built in order to learn more about mobX. [See the lesson here.](https://www.youtube.com/watch?v=LeRjIY4n2Vk)
 
-## Getting Started
+<img src="https://raw.githubusercontent.com/vivianeor/pomodoro_app/master/assets/print_app/1.jpeg">
 
-This project is a starting point for a Flutter application.
+This app aims to time study/work and rest time. This time is user defined and can be paused and restarted.
 
-A few resources to get you started if this is your first Flutter project:
+<h3>Installing the project</h3>
+You can install this app on your android phone downloading the apk file pomodoro_app.apk in this repository or cloning this repository which has the following requirements:
+✅ Flutter 2.10.2 (channel stable) <br/>
+✅ Dart 2.16.1 <br/>
+✅ JDK 8+ <br/>
+✅ Android Studio (com plugins Flutter e Dart) <br/>
+✅ Android SDK <br/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In this case, run the following commands:
+```
+$flutter pub get
+$flutter pub run build_runner build --delete-conflicting-outputs
+$flutter run
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-flutter pub run build_runner build
+<h3>Packages used in this project</h3>
+- [x] [mobx](https://pub.dev/packages/mobx)
+- [x] [flutter_mobx](https://pub.dev/packages/flutter_mobx)
+- [x] [provider](https://pub.dev/packages/provider)
+- [x] [lottie](https://pub.dev/packages/lottie)
+- [x] [build_runner](https://pub.dev/packages/build_runner)
+- [x] [mobx_codegen](https://pub.dev/packages/mobx_codegen)
