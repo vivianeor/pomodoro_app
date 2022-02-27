@@ -2,7 +2,7 @@
 
 This project is inspired by the Cod3r project, and was built with the aim of learning more about mobX. [See the lesson here.](https://www.youtube.com/watch?v=LeRjIY4n2Vk)
 
-<img src="https://raw.githubusercontent.com/vivianeor/pomodoro_app/master/assets/print_app/1.jpeg" height="900">
+<img src="https://raw.githubusercontent.com/vivianeor/pomodoro_app/master/assets/print_app/1.jpeg" height="800">
 
 This app aims to time study/work and rest time. This time is user defined and can be paused and restarted.
 
@@ -22,7 +22,7 @@ $flutter run
 ```
 
 <h3>Packages used in this project</h3>
-* [mobx](https://pub.dev/packages/mobx)<br/>
+* [mobx teste ](https://pub.dev/packages/mobx)<br/>
 * [flutter_mobx](https://pub.dev/packages/flutter_mobx)<br/>
 * [provider](https://pub.dev/packages/provider)<br/>
 * [lottie](https://pub.dev/packages/lottie)<br/>
