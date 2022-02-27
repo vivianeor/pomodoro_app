@@ -2,7 +2,7 @@
 
 This project is inspired by the Cod3r project, and was built with the aim of learning more about mobX. [See the lesson here.](https://www.youtube.com/watch?v=LeRjIY4n2Vk)
 
-<img src="https://raw.githubusercontent.com/vivianeor/pomodoro_app/master/assets/print_app/1.jpeg" height="700">
+<img src="https://raw.githubusercontent.com/vivianeor/pomodoro_app/master/assets/print_app/1.jpeg" height="900">
 
 This app aims to time study/work and rest time. This time is user defined and can be paused and restarted.
 
@@ -22,9 +22,9 @@ $flutter run
 ```
 
 <h3>Packages used in this project</h3>
-- [x] [mobx](#https://pub.dev/packages/mobx)<br/>
-- [x] [flutter_mobx](#https://pub.dev/packages/flutter_mobx)<br/>
-- [x] [provider](#https://pub.dev/packages/provider)<br/>
-- [x] [lottie](#https://pub.dev/packages/lottie)<br/>
-- [x] [build_runner](#https://pub.dev/packages/build_runner)<br/>
-- [x] [mobx_codegen](#https://pub.dev/packages/mobx_codegen)<br/>
+* [mobx](#https://pub.dev/packages/mobx)<br/>
+* [flutter_mobx](#https://pub.dev/packages/flutter_mobx)<br/>
+* [provider](#https://pub.dev/packages/provider)<br/>
+* [lottie](#https://pub.dev/packages/lottie)<br/>
+* [build_runner](#https://pub.dev/packages/build_runner)<br/>
+* [mobx_codegen](#https://pub.dev/packages/mobx_codegen)<br/>
