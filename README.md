@@ -22,9 +22,9 @@ $flutter run
 ```
 
 <h3>Packages used in this project</h3>
-* [mobx](#https://pub.dev/packages/mobx)<br/>
-* [flutter_mobx](#https://pub.dev/packages/flutter_mobx)<br/>
-* [provider](#https://pub.dev/packages/provider)<br/>
-* [lottie](#https://pub.dev/packages/lottie)<br/>
-* [build_runner](#https://pub.dev/packages/build_runner)<br/>
-* [mobx_codegen](#https://pub.dev/packages/mobx_codegen)<br/>
+* [mobx](https://pub.dev/packages/mobx)<br/>
+* [flutter_mobx](https://pub.dev/packages/flutter_mobx)<br/>
+* [provider](https://pub.dev/packages/provider)<br/>
+* [lottie](https://pub.dev/packages/lottie)<br/>
+* [build_runner](https://pub.dev/packages/build_runner)<br/>
+* [mobx_codegen](https://pub.dev/packages/mobx_codegen)<br/>
