@@ -21,6 +21,7 @@ $flutter pub run build_runner build --delete-conflicting-outputs
 $flutter run
 ```
 
+<h3>Packages used in this project</h3><br/>
 
 * [Mobx](https://pub.dev/packages/mobx)
 * [Flutter_mobx](https://pub.dev/packages/flutter_mobx)
