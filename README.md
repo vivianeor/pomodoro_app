@@ -7,7 +7,7 @@ This project is inspired by the Cod3r project, and was built with the aim of lea
 This app aims to time study/work and rest time. This time is user defined and can be paused and restarted.
 
 <h3>Installing the project</h3>
-You can install this app on your android phone downloading the apk file pomodoro_app.apk in this repository or cloning this repository which has the following requirements:<br/>
+You can install cloning this repository which has the following requirements:<br/>
 ✅ Flutter 2.10.2 (channel stable) <br/>
 ✅ Dart 2.16.1 <br/>
 ✅ JDK 8+ <br/>
