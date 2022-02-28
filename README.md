@@ -2,7 +2,7 @@
 
 This project is inspired by the Cod3r project, and was built with the aim of learning more about mobX. [See the lesson here.](https://www.youtube.com/watch?v=LeRjIY4n2Vk)
 
-<img src="https://raw.githubusercontent.com/vivianeor/pomodoro_app/master/assets/print_app/1.jpeg" height="800">
+<img src="https://raw.githubusercontent.com/vivianeor/pomodoro_app/master/assets/print_app/1.jpeg">
 
 This app aims to time study/work and rest time. This time is user defined and can be paused and restarted.
 
